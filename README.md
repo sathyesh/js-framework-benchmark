@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/krausest/js-framework-benchmark.svg?style=svg)](https://circleci.com/gh/krausest/js-framework-benchmark)
+
 
 # js-framework-benchmark
 
